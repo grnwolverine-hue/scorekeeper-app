@@ -1,7 +1,7 @@
 {
-  "name": "Diamond HQ Scorekeeper",
-  "short_name": "Scorekeeper",
-  "description": "Live scoring, rosters and lineups for coaches.",
+  "name": "Diamond HQ Scorekeeper (Staging)",
+  "short_name": "SK Staging",
+  "description": "Live scoring, rosters and lineups for coaches. TEST build, not the live app.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -9,25 +9,25 @@
   "theme_color": "#0A0A0A",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/scorekeeper-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icons/scorekeeper-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/maskable-192.png",
+      "src": "icons/scorekeeper-maskable-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icons/maskable-512.png",
+      "src": "icons/scorekeeper-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
